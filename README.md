@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Zakat+System+Architect;Licensed+Level+2+Futsal+Referee;Secretary+General+at+PRISMA+Al-Ma'mur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Computer+Vision+Researcher;Licensed+Level+2+Futsal+Referee;Secretary+General+at+PRISMA+Al-Ma'mur" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,10 +14,11 @@
 ---
 
 ### 🚀 Quick Overview
-* 🎓 **Informatics Student** at UIN Syarif Hidayatullah Jakarta (Class of 2023).
-* ⚽ **Level 2 Provincial Referee** officiating for Asprov Banten.
-* 🕌 **Web IT Support** at LDK Syahid & **Certified Halal Process Assistant**.
-* ✈️ **Aviation & Railway Enthusiast** with big dreams for the industry.
+* 🎓 **Informatics Engineering Student** at UIN Syarif Hidayatullah Jakarta (Class of 2023).
+* ⚽ **Licensed Level 2 Futsal Referee** officiating under Asprov PSSI Banten.
+* 🤖 **AI & Computer Vision Enthusiast** specializing in custom object detection (YOLOv8).
+* 🕌 **Web IT Support** at LDK Syahid & **Certified Halal Process Assistant (Pendamping PPH)**.
+* ✈️ **Aviation & Railway Enthusiast** with big dreams for the transportation industry.
 
 ---
 
@@ -47,12 +48,12 @@
   <summary><b>Featured Projects (Click to Expand)</b></summary>
   <br/>
   
-  * 💰 **[Zakat Calculator LDK Syahid](https://ldksyah.id/service/zakat-calculator)**: A comprehensive Sharia-compliant calculator (12+ iterations for precision).
-  * ⚽ **[Futsal Video Analysis](https://github.com/Farisifakhri/futsal-cv)**: YOLOv8 research for automated referee evaluation.
-  * 🧺 **[Nugraha Laundry](https://github.com/Farisifakhri/nugraha_laundry)**: Modern POS system with WhatsApp integration & Barcode.
-  * 🕌 **[LDK Syahid Web](https://ldksyah.id)**: Digitalization hub for student organization services.
-  * 🕋 **[Al-Ma'mur Super App](https://github.com/Farisifakhri/al-mamur-superapp)**: Full-stack ecosystem for community management.
-  * ⏱️ **[Timekeeper Futsal PRO](https://github.com/Farisifakhri/futsal-timekeeper)**: Digital scoreboard for professional officiating.
+  * ⚽ **[Futsal Video Analysis (YOLOv8)](https://github.com/Farisifakhri/futsal-cv)**: Computer Vision research for automated referee performance evaluation. Successfully trained a custom model for **50 epochs** to detect Referees (`mAP50: 74.1%`), Players (`73.2%`), and Officials.
+  * 💰 **[Zakat Calculator LDK Syahid](https://ldksyah.id/service/zakat-calculator)**: A comprehensive Sharia-compliant calculator (12+ development iterations for mathematical precision).
+  * 🧺 **[Nugraha Laundry](https://github.com/Farisifakhri/nugraha_laundry)**: Modern POS system with barcode scanner and WhatsApp API integration.
+  * 🕌 **[LDK Syahid Web](https://ldksyah.id)**: Digitalization hub and integrated service center for university student organizations.
+  * 🕋 **[Al-Ma'mur Super App](https://github.com/Farisifakhri/al-mamur-superapp)**: Full-stack ecosystem built for community administration and youth management.
+  * ⏱️ **[Timekeeper Futsal PRO](https://github.com/Farisifakhri/futsal-timekeeper)**: Advanced digital scoreboard and timer system tailored for professional match officiating.
 </details>
 
 ---
