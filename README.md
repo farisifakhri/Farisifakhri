@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Muhammad%20Fakhri%20Alfarisi&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&amp;descAlignY=55&amp;descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Muhammad%20Fakhri%20Alfarisi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;AI+%26+Computer+Vision+Researcher;YOLOv8+%26+TensorFlow+Enthusiast;Licensed+Level+2+Futsal+Referee;Islamic+Community+Builder" />
 
