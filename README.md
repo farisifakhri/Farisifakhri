@@ -1,24 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Muhammad%20Fakhri%20Alfarisi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Fakhri%20Alfarisi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=55&descSize=18" />
 </p>
 
 <div align="center">
 
-# 👋 Assalamu'alaikum, I'm Muhammad Fakhri Alfarisi
-
-### Full-stack Web Developer • AI & Computer Vision Enthusiast • Licensed Futsal Referee
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;AI+%26+Computer+Vision+Researcher;Licensed+Level+2+Futsal+Referee;Open+Source+%26+Islamic+Community+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;AI+%26+Computer+Vision+Researcher;YOLOv8+%26+TensorFlow+Enthusiast;Licensed+Level+2+Futsal+Referee;Islamic+Community+Builder" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
 - 🎓 Informatics Engineering Student at UIN Syarif Hidayatullah Jakarta (2023)
 - ⚽ Licensed Level 2 Futsal Referee under Asprov PSSI Banten
-- 🤖 AI & Computer Vision Enthusiast focused on YOLOv8 and intelligent systems
+- 🤖 AI & Computer Vision Enthusiast focused on YOLOv8, OpenCV & TensorFlow
 - 🕌 Active in Islamic organizations, community development, and digital dakwah
 - 💻 Passionate about building impactful web applications and automation systems
 - ✈️ Aviation, railway, and public transportation enthusiast
@@ -31,11 +27,9 @@
   <a href="https://linkedin.com/in/muhammadfakhri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="mailto:fakhri.alfarisi23@mhs.uinjkt.ac.id">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Farisifakhri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -47,7 +41,23 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,js,bootstrap,tailwind,supabase,mysql,postgresql,git,vite" />
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,bootstrap,tailwind,vite" />
+
+<br/><br/>
+
+**AI & Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+
+<br/><br/>
+
+**Database & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,linux,docker" />
 
 </div>
 
@@ -59,17 +69,27 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farisifakhri&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-<br /><br />
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farisifakhri&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Farisifakhri&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 
 </div>
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
+
+### 🕌 LDK Syahid — Sistem Persuratan Digital
+Digital letter management system for Islamic student organization. Features: auto-generated nomor surat, DomPDF generation, QR code verification, and admin approval workflow.
+
+🔗 https://ldksyah.id
+
+---
 
 ### ⚽ Futsal Video Analysis (YOLOv8)
 Computer Vision research for automated referee performance evaluation using custom-trained YOLOv8 models.
@@ -84,7 +104,7 @@ Computer Vision research for automated referee performance evaluation using cust
 ---
 
 ### 💰 Zakat Calculator — LDK Syahid
-Sharia-compliant zakat calculator integrated into organizational services platform.
+Sharia-compliant zakat calculator integrated into organizational services platform with live gold price & USD/IDR rate API.
 
 🔗 https://ldksyah.id/service/zakat-calculator
 
@@ -94,13 +114,6 @@ Sharia-compliant zakat calculator integrated into organizational services platfo
 Modern laundry POS system with barcode scanner and WhatsApp API integration.
 
 🔗 https://github.com/Farisifakhri/nugraha_laundry
-
----
-
-### 🕌 LDK Syahid Website
-Integrated digital ecosystem for student organization management and Islamic community services.
-
-🔗 https://ldksyah.id
 
 ---
 
@@ -118,25 +131,18 @@ Professional futsal scoreboard and timer system tailored for match officiating.
 
 ---
 
-## 🎮 Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Galatasaray-EA2A2D?style=for-the-badge&logo=galatasaray&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aviation-00AEEF?style=for-the-badge&logo=boeing&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-FF6B6B?style=for-the-badge&logo=trainline&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anime-FFCC00?style=for-the-badge&logo=crunchyroll&logoColor=black"/>
-</p>
-
----
-
 <div align="center">
 
-> *"Build technology with purpose, lead with integrity, and grow with impact."*
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Farisifakhri&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
