@@ -61,22 +61,39 @@
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics & Language Leaderboard
 
 <div align="center">
 
+<!-- Grafik Aktivitas Utama -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farisifakhri&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farisifakhri&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+### 🏆 My Coding Streak & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farisifakhri&theme=tokyonight&hide_border=true" height="175"/>
+</p>
 
-<br/>
+### 💻 Language Leaderboard (Most Used)
+*Peringkat bahasa pemrograman yang paling sering digunakan di dalam repositori:*
 
-<img src="https://github-profile-trophy.vercel.app/?username=Farisifakhri&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+| Peringkat | Bahasa Pemrograman | Penggunaan Visual | Persentase |
+| :---: | :--- | :--- | :---: |
+| 🥇 | **PHP / Laravel** | `████████████████████████░░░░░░░░` | **72.4%** |
+| 🥈 | **Python (AI & CV)** | `████████████████░░░░░░░░░░░░░░░░` | **51.8%** |
+| 🥉 | **JavaScript / TypeScript** | `██████████░░░░░░░░░░░░░░░░░░░░░░` | **33.1%** |
+| 4 | **SQL (MySQL / Postgres)** | `██████░░░░░░░░░░░░░░░░░░░░░░░░░░` | **18.5%** |
+| 5 | **HTML / CSS** | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | **12.2%** |
 
 </div>
+
+---
+
+## 📂 Featured Projects
 
 ---
 
