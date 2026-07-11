@@ -63,33 +63,35 @@
 
 ---
 
-## 📊 GitHub Analytics & Language Leaderboard
+---
+
+## 📊 GitHub Analytics & Activity Leaderboard
 
 <div align="center">
 
-<!-- Grafik Aktivitas Utama -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farisifakhri&theme=react-dark&hide_border=true&area=true" width="100%" />
+### ⚡ My GitHub Profile Ratios
+| Activity Metric | Performance Status |
+| :--- | :--- |
+| 🚀 **Total Commits** | ![Commits](https://img.shields.io/badge/Activity-High_Intensity-blue?style=flat-square&logo=github) |
+| 🌟 **PR & Code Review** | ![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active-green?style=flat-square&logo=git) |
+| 🔥 **Current Streak** | ![Streak](https://img.shields.io/badge/Code_Streak-Active-orange?style=flat-square) |
 
-<br/><br/>
-
-### 🏆 My Coding Streak & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farisifakhri&theme=tokyonight&hide_border=true" height="175"/>
-</p>
+<br/>
 
 ### 💻 Language Leaderboard (Most Used)
-*Peringkat bahasa pemrograman yang paling sering digunakan di dalam repositori:*
+*Peringkat bahasa pemrograman berdasarkan intensitas penggunaan di seluruh repositori proyek:*
 
 | Peringkat | Bahasa Pemrograman | Penggunaan Visual | Persentase |
 | :---: | :--- | :--- | :---: |
 | 🥇 | **PHP / Laravel** | `████████████████████████░░░░░░░░` | **72.4%** |
-| 🥈 | **Python (AI & CV)** | `████████████████░░░░░░░░░░░░░░░░` | **51.8%** |
+| 🥈 | **Python (AI & Computer Vision)** | `████████████████░░░░░░░░░░░░░░░░` | **51.8%** |
 | 🥉 | **JavaScript / TypeScript** | `██████████░░░░░░░░░░░░░░░░░░░░░░` | **33.1%** |
 | 4 | **SQL (MySQL / Postgres)** | `██████░░░░░░░░░░░░░░░░░░░░░░░░░░` | **18.5%** |
 | 5 | **HTML / CSS** | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | **12.2%** |
 
 </div>
+
+---
 
 ---
 
