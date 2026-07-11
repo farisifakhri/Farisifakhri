@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Muhammad%20Fakhri%20Alfarisi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;AI+%26+Computer+Vision+Researcher;YOLOv8+%26+TensorFlow+Enthusiast;Licensed+Level+2+Futsal+Referee;Islamic+Community+Builder" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;AI+%26+Computer+Vision+Researcher;YOLOv8+%26+TensorFlow+Enthusiast;Licensed+Level+2+Futsal+Referee;Islamic+Community+Builder" />
+</p>
 
 ---
 
@@ -92,10 +92,10 @@ Digital letter management system for Islamic student organization. Features: aut
 ### ⚽ Futsal Video Analysis (YOLOv8)
 Computer Vision research for automated referee performance evaluation using custom-trained YOLOv8 models.
 
-**Model Results**
-- Referee Detection → `mAP50: 74.1%`
-- Player Detection → `73.2%`
-- Successfully trained for `50 epochs`
+**Model Results (mAP@0.5)**
+- Player Detection (`players`) → `84.1%` 🏃‍♂️
+- Referee Detection (`referee`) → `79.9%` 🏁
+- Successfully trained for `50 epochs` using custom-labeled dataset.
 
 🔗 https://github.com/Farisifakhri/futsal-cv
 
