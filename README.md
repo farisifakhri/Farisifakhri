@@ -61,41 +61,22 @@
 
 ---
 
----
+## 📊 GitHub Stats & Activity
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Farisifakhri&theme=tokyonight&hide_border=true" />
+</p>
 
-## 📊 GitHub Analytics & Activity Leaderboard
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farisifakhri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farisifakhri&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
-### ⚡ My GitHub Profile Ratios
-| Activity Metric | Performance Status |
-| :--- | :--- |
-| 🚀 **Total Commits** | ![Commits](https://img.shields.io/badge/Activity-High_Intensity-blue?style=flat-square&logo=github) |
-| 🌟 **PR & Code Review** | ![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active-green?style=flat-square&logo=git) |
-| 🔥 **Current Streak** | ![Streak](https://img.shields.io/badge/Code_Streak-Active-orange?style=flat-square) |
-
-<br/>
-
-### 💻 Language Leaderboard (Most Used)
-*Peringkat bahasa pemrograman berdasarkan intensitas penggunaan di seluruh repositori proyek:*
-
-| Peringkat | Bahasa Pemrograman | Penggunaan Visual | Persentase |
-| :---: | :--- | :--- | :---: |
-| 🥇 | **PHP / Laravel** | `████████████████████████░░░░░░░░` | **72.4%** |
-| 🥈 | **Python (AI & Computer Vision)** | `████████████████░░░░░░░░░░░░░░░░` | **51.8%** |
-| 🥉 | **JavaScript / TypeScript** | `██████████░░░░░░░░░░░░░░░░░░░░░░` | **33.1%** |
-| 4 | **SQL (MySQL / Postgres)** | `██████░░░░░░░░░░░░░░░░░░░░░░░░░░` | **18.5%** |
-| 5 | **HTML / CSS** | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | **12.2%** |
-
-</div>
-
----
-
----
-
-## 📂 Featured Projects
+> Semua card di atas otomatis update dari data GitHub asli — bukan gambar statis, jadi selalu sinkron sama aktivitas commit terbaru.
 
 ---
 
@@ -108,13 +89,13 @@ Digital letter management system for Islamic student organization. Features: aut
 
 ---
 
-### ⚽ Futsal Video Analysis (YOLOv8)
-Computer Vision research for automated referee performance evaluation using custom-trained YOLOv8 models.
+### ⚽ FutsalLens AI — Futsal Video Analysis (YOLOv8)
+Computer vision platform for tactical analytics & objective referee grading in futsal, combining custom-trained detection with homography-based positional tracking.
 
-**Model Results (mAP@0.5)**
-- Player Detection (`players`) → `84.1%` 🏃‍♂️
-- Referee Detection (`referee`) → `79.9%` 🏁
-- Successfully trained for `50 epochs` using custom-labeled dataset.
+**Current status:** actively in development (Technopreneurship course project)
+- Custom YOLOv8n model trained on 4 classes: `keeper`, `official`, `players`, `referee`
+- mAP50 ≈ 0.67, mAP50-95 ≈ 0.51 on validation set (50 epochs, ongoing refinement)
+- Player tracking (ByteTrack) + homography-based heatmap generation in progress
 
 🔗 https://github.com/Farisifakhri/futsal-cv
 
